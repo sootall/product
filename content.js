@@ -1088,6 +1088,28 @@ window.PORTFOLIO_DATA = {
       "concept": "以夏日時光為主題的造型音響，設計出符合情境的產品並繪製介紹海報及製作等比縮小的實體草模",
       "contentPending": false,
       "imageProvided": true
+    },
+    {
+      "id": "competition-photo-2",
+      "number": "15",
+      "title": "教材設計/TANET國際研討會",
+      "english": "COMPETITION / 02",
+      "category": [
+        "Competition"
+      ],
+      "image": "assets/C-2-1.webp",
+      "alt": "教材設計/TANET國際研討會｜作品封面",
+      "demo": false,
+      "contentPending": false,
+      "imageProvided": true,
+      "concept": "透過大型語言模型擷取文獻知識，經審查後建置 Neo4j 知識圖譜，結合 GraphRAG 檢索與 AI 回饋，串接固定分支情境及學習歷程紀錄，形成一套幫助學習的網頁式教材。",
+      "gallery": [
+        {
+          "src": "assets/C-2-1.webp",
+          "alt": "教材設計/TANET國際研討會",
+          "caption": "教材設計/TANET國際研討會"
+        }
+      ]
     }
   ],
   "experiences": [
@@ -1120,6 +1142,11 @@ window.PORTFOLIO_DATA = {
       "id": "experience-6",
       "year": "2026",
       "title": "參與 i-do2026 國際研討會論文投稿"
+    },
+    {
+      "id": "experience-7",
+      "year": "2026",
+      "title": "參與TANET國際研討會研究海報發表"
     }
   ],
   "certifications": [
